@@ -1,0 +1,12 @@
+C:\Users\n1200355\source\repos\Kadai.F\Kadai.F\bin\Debug\Kadai.F.exe.config
+C:\Users\n1200355\source\repos\Kadai.F\Kadai.F\bin\Debug\Kadai.F.exe
+C:\Users\n1200355\source\repos\Kadai.F\Kadai.F\bin\Debug\Kadai.F.pdb
+C:\Users\n1200355\source\repos\Kadai.F\Kadai.F\obj\Debug\Kadai.F.csproj.AssemblyReference.cache
+C:\Users\n1200355\source\repos\Kadai.F\Kadai.F\obj\Debug\Kadai.F.Form1.resources
+C:\Users\n1200355\source\repos\Kadai.F\Kadai.F\obj\Debug\Kadai.F.Properties.Resources.resources
+C:\Users\n1200355\source\repos\Kadai.F\Kadai.F\obj\Debug\Kadai.F.csproj.GenerateResource.cache
+C:\Users\n1200355\source\repos\Kadai.F\Kadai.F\obj\Debug\Kadai.F.csproj.CoreCompileInputs.cache
+C:\Users\n1200355\source\repos\Kadai.F\Kadai.F\obj\Debug\Kadai.F.exe
+C:\Users\n1200355\source\repos\Kadai.F\Kadai.F\obj\Debug\Kadai.F.pdb
+C:\Users\n1200355\source\repos\Kadai.F\Kadai.F\obj\Debug\Kadai.F.omikuji.resources
+C:\Users\n1200355\source\repos\Kadai.F\Kadai.F\obj\Debug\Kadai.F.slot.resources
